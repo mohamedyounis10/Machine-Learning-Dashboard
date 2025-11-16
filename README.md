@@ -27,8 +27,10 @@
 ## 🎥 Demo Video
 
 <div align="center">
-[![Watch Demo](https://img.shields.io/badge/▶️_Watch_Demo_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://drive.google.com/file/d/1IfIJ9mbtVe-WjOc0sYjXNekiyTyMSDZ_/view?usp=sharing)
-
+  <h2>🎬 Watch Demo</h2>
+  <a href="https://drive.google.com/file/d/1IfIJ9mbtVe-WjOc0sYjXNekiyTyMSDZ_/view?usp=sharing">
+    <img src="https://img.shields.io/badge/▶️_Watch_Full_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Demo">
+  </a>
 </div>
 
 ---
