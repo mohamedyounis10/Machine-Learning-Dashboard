@@ -1,4 +1,5 @@
-#    📊 AI Auto Machine Learning Dashboard
+<div align="center">
+# 📊 AI Auto Machine Learning Dashboard
 
 <div align="center">
 
