@@ -242,9 +242,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👤 Author
 
-**Mohamed Younis**
-**Yousef Helmy**
-**Ahmed Abd ElSalam**
+- **Mohamed Younis**
+- **Yousef Helmy**
+- **Ahmed Abd ElSalam**
 
 ---
 
