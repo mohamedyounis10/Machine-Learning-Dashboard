@@ -12,6 +12,7 @@
 [Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [Screenshots](#-screenshots) • [Demo](#-demo)
 
 </div>
+
 ---
 
 ## 📸 Screenshots
