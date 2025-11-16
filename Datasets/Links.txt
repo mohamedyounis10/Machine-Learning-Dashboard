@@ -1,0 +1,11 @@
+Dataset 1 - Regression :
+https://www.kaggle.com/datasets/drewbamberger/student-performance-factors
+
+Dataset 2 - Classfication :
+https://www.kaggle.com/datasets/yasserh/heart-disease-dataset/data
+
+Dataset 3 - Classfication :
+https://www.kaggle.com/datasets/merishnasuwal/breast-cancer-prediction-dataset
+
+Dataset 4  - Unsupervised :
+https://www.kaggle.com/datasets/shwetabh123/mall-customers
