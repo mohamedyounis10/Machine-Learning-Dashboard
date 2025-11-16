@@ -27,8 +27,8 @@
 ## 🎥 Demo Video
 
 <div align="center">
-[![Demo Video](https://img.shields.io/badge/▶️-Watch%20Demo-red?style=for-the-badge)](https://drive.google.com/file/d/1IfIJ9mbtVe-WjOc0sYjXNekiyTyMSDZ_/view?usp=sharing)
-   
+[![Watch Demo](https://img.shields.io/badge/▶️_Watch_Demo_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://drive.google.com/file/d/1IfIJ9mbtVe-WjOc0sYjXNekiyTyMSDZ_/view?usp=sharing)
+
 </div>
 
 ---
