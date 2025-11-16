@@ -17,12 +17,8 @@
 
 ## 📸 Screenshots
 
-<!-- Add your project screenshot here -->
 <div align="center">
-
-![Project Screenshot](Project%20Diagram.png)
-
-*Add your screenshot above by replacing the image path*
+<img width="1919" height="1022" alt="Screenshot 2025-11-16 163052" src="https://github.com/user-attachments/assets/8742a49d-cd36-48eb-bf84-6194571f4dd7" />
 
 </div>
 
@@ -246,9 +242,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👤 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+**Mohamed Younis**
+**Yousef Helmy**
+**Ahmed Abd ElSalam**
 
 ---
 
@@ -257,14 +253,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - ITI (Information Technology Institute) for project guidance
 - Streamlit team for the amazing framework
 - Scikit-learn community for comprehensive ML tools
-
----
-
-## 📞 Support
-
-If you have any questions or run into issues, please:
-- Open an issue on GitHub
-- Contact the author via email
 
 ---
 
